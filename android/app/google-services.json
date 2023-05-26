@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "788023566707",
+    "firebase_url": "https://dispenser-esp32-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dispenser-esp32",
+    "storage_bucket": "dispenser-esp32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788023566707:android:392eb8dfd2fb929e62a506",
+        "android_client_info": {
+          "package_name": "com.example.airpol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788023566707-ndkt1974mb2ipvuqrcbb0aokacqohdvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzUr7S3G_QNfKcRYO3a1dwkv2YeKCYMaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788023566707-ndkt1974mb2ipvuqrcbb0aokacqohdvl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788023566707-hbs9t4rk9nabftp19u83pljpkngfbe3q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.airpol"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
